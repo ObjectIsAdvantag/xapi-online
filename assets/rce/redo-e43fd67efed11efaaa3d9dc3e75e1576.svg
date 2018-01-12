@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_16/redo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_16/redo">
+            <g>
+                <rect id="Rectangle-7" x="0" y="0" width="16" height="16"></rect>
+                <g id="Group" transform="translate(8.000000, 8.000000) rotate(-180.000000) translate(-8.000000, -8.000000) translate(2.000000, 3.000000)" fill="#444444">
+                    <path d="M1.707,4.5 L4.853,1.354 C5.049,1.158 5.049,0.842 4.853,0.647 C4.658,0.451 4.342,0.451 4.146,0.647 L0.147,4.646 C0.101,4.692 0.064,4.748 0.038,4.809 C0.013,4.87 8.8817842e-16,4.935 8.8817842e-16,5 C8.8817842e-16,5.065 0.013,5.13 0.038,5.191 C0.064,5.253 0.101,5.308 0.147,5.354 L4.146,9.354 C4.342,9.549 4.658,9.549 4.853,9.354 C5.049,9.158 5.049,8.842 4.853,8.647 L1.707,5.5 L8.5,5.5 C9.88071187,5.5 11,6.61928813 11,8 C11,8.27614237 11.2238576,8.5 11.5,8.5 C11.7761424,8.5 12,8.27614237 12,8 C12,6.06700338 10.4329966,4.5 8.5,4.5 L1.707,4.5 Z" id="Combined-Shape" transform="translate(6.000000, 5.000125) scale(1, -1) translate(-6.000000, -5.000125) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
