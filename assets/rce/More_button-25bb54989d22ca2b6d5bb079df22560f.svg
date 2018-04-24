@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="On-Prem-Contact-Card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002-copy-7" transform="translate(-1296.000000, -667.000000)" fill="#444444">
+            <g id="content" transform="translate(0.000000, 168.000000)">
+                <g id="contact-card" transform="translate(1004.000000, 131.000000)">
+                    <g id="button" transform="translate(292.000000, 368.000000)">
+                        <g id="Group-4">
+                            <circle id="bg" opacity="0.0799999982" cx="40" cy="40" r="40"></circle>
+                            <g id="Group-2" transform="translate(21.000000, 37.000000)" fill-opacity="0.899999976">
+                                <circle id="Oval" cx="3.5" cy="3.5" r="3.5"></circle>
+                                <circle id="Oval" cx="19.5" cy="3.5" r="3.5"></circle>
+                                <circle id="Oval" cx="35.5" cy="3.5" r="3.5"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
